@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "jest": "^29.7.0"
+  },
+  "name": "10-svg-logo-challenge",
+  "description": "Module 10 homework to make custom SVG logos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
