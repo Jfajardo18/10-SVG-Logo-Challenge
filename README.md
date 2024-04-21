@@ -35,6 +35,10 @@ To start the SVG logo creation process, run the following command in your termin
 node index.js
 Follow the on-screen prompts to customize and generate your SVG logo. The generated SVG file will be saved as `logo.svg` in the project directory.
 
+##Video Walkthrough
+
+https://drive.google.com/file/d/1dlpxqaQvy0R0MaBD7jAr0gv6NG4yWlme/view
+
 ## Viewing Your Logo
 
 After generating your logo, you can view it by opening the `logo.svg` file in a web browser. Simply drag and drop the file into a new browser tab, or use the `Open File` option in your browser's menu.
